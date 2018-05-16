@@ -1,3 +1,16 @@
 Hello world again.
 
 This is a fable.
+
+This is not expected to be a conflict, I'm just adding something.
+
+I'm adding a line to the fable in the master branch of the main repo.
+
+<<<<<<< HEAD
+Here this is to create a conflict identifier.
+I say orange.
+=======
+Here this is to creat a conflict identifier.
+I say apple.
+>>>>>>> b274d05f47f35672556c64700b60109ac1314bd2
+Did you say the same?
