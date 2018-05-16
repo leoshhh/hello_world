@@ -1,5 +1,0 @@
-Hello world.
-
-Let me tell you a story.
-
-Now I'm adding a line to the story in branch one of the main local repo.
