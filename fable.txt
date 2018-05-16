@@ -3,3 +3,7 @@ Hello world again.
 This is a fable.
 
 I'm adding a line to the fable in the master branch of the main repo.
+
+Here this is to creat a conflict identifier.
+I say apple.
+Did you say the same?
